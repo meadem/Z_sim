@@ -1,6 +1,6 @@
 # Z_sim
 EIS data simulation in python
-- modelling of a variety of combinations of circuit elements, inclduing CPEs and Warburg elements
+- modelling of a variety of combinations of circuit elements, including CPEs and Warburg elements
 - user can set an arbitrary frequency range or provide their own array of frequency values
 - produces well-formatted Nyquist and Bode plots
 
